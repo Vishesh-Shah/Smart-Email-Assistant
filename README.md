@@ -11,7 +11,8 @@ An AI-powered email reply generator that helps you craft professional responses 
 
 ## 📹 Demo
 
-_Add your demo video or GIF here_
+https://github.com/user-attachments/assets/6f21ed75-9b4f-4598-bcb4-1d98ec49a1de
+
 
 ## ✨ Key Features
 
